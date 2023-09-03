@@ -15,6 +15,8 @@
 
 ---
 
--Seer Fish food
--Todadevu
--Prawns Curry
+- Seer Fish food
+- Todadevu
+- Prawns Curry
+
+[link about myself](MyStats.md)
