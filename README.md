@@ -29,3 +29,10 @@ The Below Table gives the information about four different types of sports which
 |Basketball| Helps to improve balance and coordination.It also Develops concentration and self-discipline.| 14 Hours|
 |Cycling| Helps in Increasing cardiovascular fitness| 4-5 hours|
 |Cricket| It helps in improveing aerobic fitness, stamina and strength| 21hours|
+
+---
+
+# Scientist's Quotes I Like and thier authors
+> I never lose either i win or learn. -*Nelson Mandela*
+
+> The only true wisdom is in knowing you know nothing. - *Socrates*
