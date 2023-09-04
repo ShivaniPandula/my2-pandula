@@ -22,3 +22,10 @@
 ---
 
 # Sports Recommendation
+The Below Table gives the information about four different types of sports which someone try.
+| Name of the Sport| Reason for Recommendation| Average Hours to be spend per week|
+|---|---|---|
+|Badminton| Helps weight loss and also  improves heart function| 10-14 hours|
+|Basketball| Helps to improve balance and coordination.It also Develops concentration and self-discipline.| 14 Hours|
+|Cycling| Helps in Increasing cardiovascular fitness| 4-5 hours|
+|Cricket| It helps in improveing aerobic fitness, stamina and strength| 21hours|
